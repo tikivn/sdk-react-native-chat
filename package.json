@@ -1,7 +1,7 @@
 {
   "name": "@tikivn/sdk-react-native-chat",
   "version": "0.1.0",
-  "description": "SDK react native fot tiki chat",
+  "description": "SDK react native for tiki chat",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -143,5 +143,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "react-native-webview": "^11.14.1"
   }
 }
